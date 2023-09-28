@@ -4,6 +4,36 @@ layout: default
 
 ## News
 
+## Bio
+
+Philippe Bonnet is an experimental computer scientist with a background in
+database systems. For thirty years, Philippe has explored the design, implementation,
+and evaluation of database systems in the context of successive generations of computer
+classes, including wireless sensor networks, computer clusters and most recently
+computational storage. 
+Philippe has a track record of successful research projects under DARPA, NSF (while a research associate 
+at Cornell University), EU and Danish funding (at DIKU and ITU).
+
+Philippe is an expert on storage system
+software. In this area, he contributed to the uFlip Benchmark, the Linux multiqueue block
+layer, the Linux framework for Open-Channel SSDs, the OX architecture for computational
+storage, the xNVMe library and Delilah, a prototype for eBPF offload on
+computational storage.
+
+Philippe was involved in the development of sensor networks in the early 200s. 
+
+Philippe joined DIKU in 2001 as assistant professor in the Distlab group.
+He was faculty at the IT University from 2009 to 2023, and he is now back.
+
+Before Denmark, Philippe worked as software engineer at ECRC in Munich, Germany
+from 1993 to 1996, and at GIE Dyade in Grenoble, France, where he completed his PhD in 1999. 
+He was then a postdoc and later research scientist at Cornell University from 1999 to 2001.
+In this period, Philippe had the priviledge to work under the supervision of Stephane Bressan,
+Anthony Tomasic and Praveen Seshadri and to collaborate with Dennis Shasha.
+
+Philippe is a trustee of the VLDB Endowment and currently chairs the ACM EIG on Reproducibility
+and Replicability.
+
 ## Research
 
 ## Teaching
