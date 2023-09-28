@@ -23,14 +23,14 @@ email: bonnet@di.ku.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Home Page
 baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: bonnet-p 
+  #url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  # github_username: bonnet-p 
 pic: /assets/img/bonnet.jpg
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+   - jekyll-remote-theme
 #theme: minimal
 #plugins:
 #  - jekyll-feed
