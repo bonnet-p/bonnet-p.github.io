@@ -25,7 +25,7 @@ Philippe joined DIKU in 2001 as assistant professor in the Distlab group.
 He was faculty at the IT University from 2009 to 2023, and he is now back.
 Before Denmark, Philippe worked as software engineer at ECRC in Munich, Germany
 from 1993 to 1996, and at GIE Dyade in Grenoble, France, where he completed his PhD in 1999. 
-He was then a postdoc and later research scientist at Cornell University from 1999 to 2001.
+He was then a postdoc and later research associate at Cornell University from 1999 to 2001.
 In this period, Philippe had the priviledge to work under the supervision of Stephane Bressan,
 Anthony Tomasic and Praveen Seshadri and to collaborate with Dennis Shasha.
 
