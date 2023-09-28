@@ -19,12 +19,10 @@ software. In this area, he contributed to the uFlip Benchmark, the Linux multiqu
 layer, the Linux framework for Open-Channel SSDs, the OX architecture for computational
 storage, the xNVMe library and Delilah, a prototype for eBPF offload on
 computational storage.
-
 Philippe was involved in the development of sensor networks in the early 200s. 
 
 Philippe joined DIKU in 2001 as assistant professor in the Distlab group.
 He was faculty at the IT University from 2009 to 2023, and he is now back.
-
 Before Denmark, Philippe worked as software engineer at ECRC in Munich, Germany
 from 1993 to 1996, and at GIE Dyade in Grenoble, France, where he completed his PhD in 1999. 
 He was then a postdoc and later research scientist at Cornell University from 1999 to 2001.
