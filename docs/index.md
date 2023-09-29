@@ -6,8 +6,9 @@ layout: default
 
 ## Bio
 
-Philippe Bonnet is an experimental computer scientist with a background in
-database systems. For thirty years, Philippe has explored the design, implementation,
+Philippe Bonnet is professor at DIKU, the computer science department of the University
+of Copenhagen. He is an experimental computer scientist with a background in
+database systems. For thirty years, he has explored the design, implementation,
 and evaluation of database systems in the context of successive generations of computer
 classes, including wireless sensor networks, computer clusters and most recently
 computational storage. 
@@ -26,8 +27,8 @@ He was faculty at the IT University from 2009 to 2023, and he is now back.
 Before Denmark, Philippe worked as software engineer at ECRC in Munich, Germany
 from 1993 to 1996, and at GIE Dyade in Grenoble, France, where he completed his PhD in 1999. 
 He was then a postdoc and later research associate at Cornell University from 1999 to 2001.
-In this period, Philippe had the priviledge to work under the supervision of Stephane Bressan,
-Anthony Tomasic and Praveen Seshadri and to collaborate with Dennis Shasha.
+In this period, Philippe had the priviledge to work under the supervision of Stephane Bressan at ECRC,
+Anthony Tomasic at Dyade and Praveen Seshadri at Cornell and to collaborate with Dennis Shasha.
 
 Philippe is a trustee of the VLDB Endowment and currently chairs the ACM EIG on Reproducibility
 and Replicability.
@@ -45,7 +46,7 @@ and Replicability.
 
 [Matias Bjørling](https://www.linkedin.com/in/matiasbjoerling/?originalSubdomain=dk) (ITU, 2015) &nbsp; &nbsp;
 [Marcus Chang](https://www.linkedin.com/in/marcus-chang-7293056/) (DIKU, 2009) &nbsp; &nbsp;
-[Niv Dayan](http://www.linkedin.com/pub/niv-dayan/5/619/21a) (ITU, 2015) &nbsp; &nbsp;
+[Niv Dayan](https://www.linkedin.com/in/niv-dayan-26636663/?originalSubdomain=ca) (ITU, 2015) &nbsp; &nbsp;
 [Jonathan Furst](https://www.linkedin.com/in/jofu87/) (ITU, 2016) &nbsp; &nbsp;
 [Javier Gonzalez](https://www.linkedin.com/in/javigon/?locale=en_US) (ITU, 2015) &nbsp; &nbsp;
 [Joel Granados](https://www.linkedin.com/in/joelgranados/?originalSubdomain=dk) (ITU, 2013) &nbsp; &nbsp;
