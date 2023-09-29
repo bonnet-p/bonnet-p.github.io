@@ -32,10 +32,6 @@ Anthony Tomasic and Praveen Seshadri and to collaborate with Dennis Shasha.
 Philippe is a trustee of the VLDB Endowment and currently chairs the ACM EIG on Reproducibility
 and Replicability.
 
-## Research
-
-## Teaching
-
 ## PhD Students
 
 ### Students
