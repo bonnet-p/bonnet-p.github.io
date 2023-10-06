@@ -58,3 +58,38 @@ and Replicability.
 [Martin Leopold](https://www.linkedin.com/in/martin-leopold-9444222/?originalSubdomain=dk) (DIKU, 2007) &nbsp; &nbsp;
 [Ivan Luiz Picoli](https://www.linkedin.com/in/ivan-luiz-picoli-b34672105/?originalSubdomain=dk) (ITU, 2019) 
 
+## Research
+
+Many of the research questions I study are motivated by three recent trends that drive the 
+evolution of computer systems:
+1. The performance of modern storage hardware has triggered a 
+necessary redesign of the storage software stack.
+2. The diversification of workloads driven by artificial 
+intelligence and big data, combined with the limits reached by central processing units has propelled 
+the emergence of specialized hardware to deliver top performance at an acceptable energy cost. 
+3. Data movement bottlenecks in traditional, processor-centric architectures have led to the
+development of data-centric architectures, where processing is moved to where data is stored.
+
+Most of my research in the last 15 years has been based on *the hypothesis that solid-state drives
+that are programmed and
+specialized together with database management systems minimize data movement and improve performances*.
+This hypothesis is based on our early work on the
+performance characteristics of SSDs and on the integration of SSDs in Linux. This work
+demonstrated the limitations of layered system design with generic SSD firmware.
+The idea is that databases and SSDs should be co-designed.
+
+Our current work focuses on computational storage, that makes it possible to execute functions 
+on compute resources within the storage system as a result of I/Os issued by a host. 
+I am currently leading the computational storage work package in the Daphne project. 
+I am also interested in exploring how computational storage could benefit scientific applications. 
+Our *hypothesis is that computational storage devices efficiently support error-controlled, progressive, and adaptable retrieval of scientific data at extreme scale*.
+Another line of work focuses on reproducibility and replicability in the context of speciaized harwdare.
+
+## Service
+
+# Reproducibility and Replicability
+
+# National e-Infrastructure 
+
+
+
