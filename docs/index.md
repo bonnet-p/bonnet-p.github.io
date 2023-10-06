@@ -89,8 +89,11 @@ be integrated in the context of composable database management systems.
 - **Scientific data management at extreme scale**. I am also interested in exploring 
 how computational storage could benefit scientific applications.  
 Our hypothesis is that computational storage devices efficiently support error-controlled, progressive, and adaptable retrieval of scientific data at extreme scale.
-- **Reproducibility and Replicability**. Finally, a complementary line of work focuses on reproducibility and replicability in the context of computational
-storage and co-designed SSDs.
+- **Reproducibility and Replicability**. Finally, a complementary line of work focuses on 
+reproducibility and replicability in the context of computational storage and co-designed SSDs.
+More generally, I am interested in teaching experimental design to computer science students
+and studying how policies within institutions or at national level
+can favor the replicability of experimental research. 
 
 ## Service
 
