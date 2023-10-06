@@ -22,15 +22,17 @@ software. In this area, he contributed to the uFlip Benchmark, the Linux multiqu
 layer, the Linux framework for Open-Channel SSDs, the OX architecture for computational
 storage, the xNVMe library and Delilah, a prototype for eBPF offload on
 computational storage.
-Philippe was involved in the development of sensor networks in the early 200s. 
+Philippe was involved in the development of sensor networks in the early 2000s with
+the Cougar project at Cornell, and the Hogthrob and Mana projects at U.Copenhagen. 
+Philippe is co-author of a book on database tuning together with Dennis Shasha.
 
 Philippe joined DIKU in 2001 as assistant professor in the Distlab group.
-He was faculty at the IT University from 2009 to 2023, and he is now back.
+He was faculty at the IT University from 2009 to 2023, and he is now back at DIKU.
 Before Denmark, Philippe worked as software engineer at ECRC in Munich, Germany
-from 1993 to 1996, and at GIE Dyade in Grenoble, France, where he completed his PhD in 1999. 
-He was then a postdoc and later research associate at Cornell University from 1999 to 2001.
+from 1993 to 1996, as a PhD student at GIE Dyade in Grenoble, France, and
+as a postdoc and later research associate at Cornell University, NY, USA from 1999 to 2001.
 In this period, Philippe had the priviledge to work under the supervision of Stephane Bressan at ECRC,
-Anthony Tomasic at Dyade and Praveen Seshadri at Cornell and to collaborate with Dennis Shasha.
+Anthony Tomasic at Dyade and Praveen Seshadri at Cornell. 
 
 Philippe is a trustee of the VLDB Endowment and currently chairs the ACM EIG on Reproducibility
 and Replicability.
