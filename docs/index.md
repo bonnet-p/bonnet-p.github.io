@@ -4,7 +4,7 @@ layout: default
 
 ## News
 
-- @DIKU students: Please check the following project topics for MSc or BSc thesis 
+- **@DIKU students**: Please check the following project topics for MSc or BSc thesis 
 
 ## Bio
 
@@ -80,14 +80,16 @@ performance characteristics of SSDs and on the integration of SSDs in Linux. Thi
 demonstrated the limitations of layered system design with generic SSD firmware.
 The idea is that databases and SSDs should be co-designed.
 
-Our current work focuses on computational storage, that makes it possible to execute functions 
+Currently, my research focuses on:
+- **Computational storage**, that makes it possible to execute functions 
 on compute resources within the storage system as a result of I/Os issued by a host. 
-I am currently leading the computational storage work package in the Daphne project. 
-I am also interested in exploring how computational storage could benefit scientific applications. 
-Our hypothesis is that computational storage devices efficiently support error-controlled, progressive, and adaptable retrieval of scientific data at extreme scale.
-A longer term effort is to make it possible to program and specialize SSDs that can then 
+I lead the computational storage work package in the Horizon Europe Daphne project. 
+- **Co-designed SSDs**. A longer term effort is to make it possible to program and specialize SSDs that can then 
 be integrated in the context of composable database management systems.
-Finally, a complementary line of work focuses on reproducibility and replicability in the context of computational
+- **Scientific data management at extreme scale**. I am also interested in exploring 
+how computational storage could benefit scientific applications.  
+Our hypothesis is that computational storage devices efficiently support error-controlled, progressive, and adaptable retrieval of scientific data at extreme scale.
+- **Reproducibility and Replicability**. Finally, a complementary line of work focuses on reproducibility and replicability in the context of computational
 storage and co-designed SSDs.
 
 ## Service
