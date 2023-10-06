@@ -94,9 +94,9 @@ storage and co-designed SSDs.
 
 ## Service
 
-### Reproducibility and Replicability
-
-### National e-Infrastructure 
+- chair of ACM EIGREP, the ACM's Emerging Interest Group on Reproducibility and Replicability.
+- co-founder and steering committee member of the Danish Reproducibility Network 
+- trustee of the VLDB Endowment
 
 
 
