@@ -7,7 +7,9 @@ layout: default
 ## Bio
 
 Philippe Bonnet is professor at DIKU, the computer science department of the University
-of Copenhagen. He is an experimental computer scientist with a background in
+of Copenhagen. 
+
+He is an experimental computer scientist with a background in
 database systems. For thirty years, he has explored the design, implementation,
 and evaluation of database systems in the context of successive generations of computer
 classes, including wireless sensor networks, computer clusters and most recently
