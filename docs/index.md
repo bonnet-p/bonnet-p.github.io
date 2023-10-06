@@ -95,6 +95,15 @@ More generally, I am interested in teaching experimental design to computer scie
 and studying how policies within institutions or at national level
 can favor the replicability of experimental research. 
 
+## Teaching
+
+Fall 2023:
+- Advanced Data Systems (CM, ITU)
+- Programmering og Problemløsning (T, DIKU)
+
+Spring 2024:
+- Software Udvikling (T, DIKU)
+
 ## Service
 
 - Chair of ACM EIGREP, the ACM's Emerging Interest Group on Reproducibility and Replicability.
