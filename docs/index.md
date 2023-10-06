@@ -4,6 +4,8 @@ layout: default
 
 ## News
 
+- @DIKU students: Please check the following project topics for MSc or BSc thesis 
+
 ## Bio
 
 Philippe Bonnet is professor at DIKU, the computer science department of the University
@@ -70,10 +72,10 @@ the emergence of specialized hardware to deliver top performance at an acceptabl
 3. Data movement bottlenecks in traditional, processor-centric architectures have led to the
 development of data-centric architectures, where processing is moved to where data is stored.
 
-Most of my research in the last 15 years has been based on *the hypothesis that solid-state drives
+My research is based on the hypothesis that solid-state drives
 that are programmed and
-specialized together with database management systems minimize data movement and improve performances*.
-This hypothesis is based on our early work on the
+specialized together with database management systems minimize data movement and improve performances.
+This hypothesis is based on our early work on th
 performance characteristics of SSDs and on the integration of SSDs in Linux. This work
 demonstrated the limitations of layered system design with generic SSD firmware.
 The idea is that databases and SSDs should be co-designed.
@@ -82,14 +84,17 @@ Our current work focuses on computational storage, that makes it possible to exe
 on compute resources within the storage system as a result of I/Os issued by a host. 
 I am currently leading the computational storage work package in the Daphne project. 
 I am also interested in exploring how computational storage could benefit scientific applications. 
-Our *hypothesis is that computational storage devices efficiently support error-controlled, progressive, and adaptable retrieval of scientific data at extreme scale*.
-Another line of work focuses on reproducibility and replicability in the context of speciaized harwdare.
+Our hypothesis is that computational storage devices efficiently support error-controlled, progressive, and adaptable retrieval of scientific data at extreme scale.
+A longer term effort is to make it possible to program and specialize SSDs that can then 
+be integrated in the context of composable database management systems.
+Finally, a complementary line of work focuses on reproducibility and replicability in the context of computational
+storage and co-designed SSDs.
 
 ## Service
 
-# Reproducibility and Replicability
+### Reproducibility and Replicability
 
-# National e-Infrastructure 
+### National e-Infrastructure 
 
 
 
