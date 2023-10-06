@@ -97,9 +97,9 @@ can favor the replicability of experimental research.
 
 ## Service
 
-- chair of ACM EIGREP, the ACM's Emerging Interest Group on Reproducibility and Replicability.
-- co-founder and steering committee member of the Danish Reproducibility Network 
-- trustee of the VLDB Endowment
+- Chair of ACM EIGREP, the ACM's Emerging Interest Group on Reproducibility and Replicability.
+- Co-founder and steering committee member of the Danish Reproducibility Network 
+- Trustee of the VLDB Endowment
 
 
 
