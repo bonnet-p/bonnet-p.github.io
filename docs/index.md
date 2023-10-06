@@ -4,7 +4,7 @@ layout: default
 
 ## News
 
-- **@DIKU students**: Please check the following project topics for MSc or BSc thesis 
+- **@DIKU students**: Please check the following [project topics](projects.md) for MSc or BSc thesis 
 
 ## Bio
 
