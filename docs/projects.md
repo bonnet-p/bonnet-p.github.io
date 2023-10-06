@@ -1,4 +1,4 @@
-# Project Topics @ DIKU (Fall 2023)
+## Project Topics @ DIKU (Fall 2023)
 
 ### Local NVMe Storage in DuckDB
 
