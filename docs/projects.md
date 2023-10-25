@@ -17,7 +17,7 @@ A previous project implemented an NVMe transport beneath the existing storage en
 In this project, the goal is to revisit the design of the storage engine
 to leverage the feaatures of the underlying NVMe transport. 
 
-### Computational Storagei (Delilah) in Daphne
+### Computational Storage (Delilah) in Daphne
 
 Delilah (https://github.com/delilah-csp) is a computational storage platfom that enables the offload of eBPF
 program from a host onto computational storage. We have experimented with Delilah
